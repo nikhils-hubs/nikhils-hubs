@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nikhil<br>👀 I’m interested in how things work with the programs<br>🌱 I’m currently learning JAVA & Backend(nodeJS)<br>📫 U can reach on Twitter https://x.com/nikhilsingh1696<br>😄 Pronouns: he/him
+👋 Hi, I’m Nikhil<br>👀 I’m interested in how things work with the programs<br>🌱 I’m currently learning JAVA & Backend(nodeJS)<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
+<h1 align="center">Hi, I'm Nikhil Singh</h1>
 
 <h3 align="center">
 Backend Developer • AI Engineer in Progress • Lifelong Learner 🚀
